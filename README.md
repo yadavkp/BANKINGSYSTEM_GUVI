@@ -1,4 +1,4 @@
-# Online Banking System - Java EE Maven Project
+# Online Banking System - Java Maven Project
 
 This is an interesting Java EE project that focuses on developing an online banking system. The main aim is to create an online banking platform that is accessible from any location, allowing customers to perform routine banking operations without the need to visit physical bank branches.
 
@@ -58,13 +58,6 @@ We welcome contributions to enhance the functionality and usability of the Onlin
 
 5. Create a pull request against the `main` branch of the original repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-## Contact
-
-For any questions or inquiries, please contact us at [udaytripurani04@gmail.com](mailto:udaytripurani04@gmail.com).
+ 
 
 ---
